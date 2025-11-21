@@ -23,8 +23,8 @@ Um bartender virtual inteligente que roda no terminal! A JadeBot usa IA (Google 
 
 1. **Clone o repositório**
    ```bash
-   git clone https://github.com/GustaGol0/bar-jadebot.git
-   cd bar-jadebot
+git clone https://github.com/GustaGol0/bar-bot-ia
+   cd BarBot
    ```
 
 2. **Instale as dependências**
