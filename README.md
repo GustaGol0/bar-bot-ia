@@ -1,6 +1,6 @@
 # 🍸 Bar da JadeBot
 
-Um bartender virtual inteligente que roda no terminal! A JadeBot usa IA (Google Gemini) para recomendar drinks personalizados baseados no seu humor, gosto ou vibe do momento.
+Uma bartender virtual inteligente e divertida que roda no terminal! A JadeBot usa IA (Google Gemini) para recomendar drinks personalizados baseados no seu humor, gosto ou vibe do momento.
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python)
 ![Gemini](https://img.shields.io/badge/AI-Google%20Gemini-orange)
@@ -24,7 +24,7 @@ Um bartender virtual inteligente que roda no terminal! A JadeBot usa IA (Google 
 1. **Clone o repositório**
    ```bash
    git clone https://github.com/GustaGol0/bar-bot-ia
-   cd BarBot
+   cd bar-bot-ia
    ```
 
 2. **Instale as dependências**
@@ -43,7 +43,7 @@ Um bartender virtual inteligente que roda no terminal! A JadeBot usa IA (Google 
 
 4. **Execute o programa**
    ```bash
-   python main.py
+   python bar_bot.py
    ```
 
 ## 🎮 Como Usar
